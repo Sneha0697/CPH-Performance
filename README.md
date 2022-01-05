@@ -5,6 +5,8 @@ Comparing the transparency index of Capri Holdings vs. Ralph Lauren
      width="200" 
      height="200"/>
      
+Jimmy Choo is a brand that provides a distinct, glamorous, and fashion-forward variety, allowing it to compete with other major luxury accessory brands. Its mainstays are women's luxury shoes, which are supplemented with accessories such as handbags, tiny leather goods, scarves, and belts. It is also expanding in the men's luxury shoe and accessory market. 
+     
 <img src="Images/MK.jpg?raw=true"
      width="200" 
      height="200"/>   

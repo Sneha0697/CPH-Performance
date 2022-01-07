@@ -1,6 +1,7 @@
 # Capri Holdings-Performance
 Comparing the transparency index of Capri Holdings vs. Ralph Lauren
 
+Capri Holdings Limited ("Capri") is a global fashion luxury group comprised of iconic brands that are industry leaders in design, style, and crafting, driven by an elite executive team and recognized designers.
 <img src="Images/Jimmy Choo.jpg?raw=true"
      width="200" 
      height="200"/>

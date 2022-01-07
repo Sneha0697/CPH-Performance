@@ -20,3 +20,11 @@ Michael Kors started as an American luxury sportswear brand 40 years ago. Today,
      height="200"/>
      
 Versace brand has been acknowledged as one of the world's leading international fashion houses. It is synonymous with Italian glitz and glitter. It was founded in 1978 in Milan and is noted for its iconic and identifiable aesthetic as well as unrivaled craftsmanship. Donatella Versace, the brand's artistic director for the last two decades, leads the design team. The house maintains a global distribution network that includes boutiques in the world's most beautiful cities, e-commerce sites, and the most valuable department and specialty stores on the planet.
+### Transparency Index : One of the variables influencing performance 
+
+Companies are constantly fighting with one another in order to have a higher market value, earn more profit, raise stock volumes and prices, and so on. One of the most crucial factors affecting all of the previously listed characteristics is the degree of consumer trust obtained by the individual companies. One aspect that influences trust is ethical behavior, which may be quantified using one of the indexes recognized as the transparency index. Although Capri Holdings exceeds Ralph Lauren in numerous areas such as enterprise value, earnings, and stock volume, the company has received relatively low transparency index rankings. This could possibly be one of the causes for Ralph Lauren's high stock price above CPH.</br>
+<img src="Images/Transparency Index.png?raw=true"
+     width="400" 
+     height="300"/></br>
+     Transparency Index Scores</br>
+As a result, the transparency index is one of the important performance indicators that requires Capri Holdings Ltd.'s attention and action.

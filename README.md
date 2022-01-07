@@ -5,7 +5,7 @@ Comparing the transparency index of Capri Holdings vs. Ralph Lauren
      width="200" 
      height="200"/>
      
-Jimmy Choo is a brand that provides a distinct, glamorous, and fashion-forward variety, allowing it to compete with other major luxury accessory brands. Its mainstays are women's luxury shoes, which are supplemented with accessories such as handbags, tiny leather goods, scarves, and belts. It is also expanding in the men's luxury shoe and accessory market. 
+Jimmy Choo is a brand that provides a distinct, glamorous, and fashion-forward variety, allowing it to compete with other major luxury accessory brands. Its mainstays are women's luxury shoes, which are supplemented with accessories such as handbags, tiny leather goods, scarves, and belts. It is also expanding in the men's luxury shoe and accessory market. This brand offers products that are one-of-a-kind, intuitively alluring and stylish, as well as timeless classics. These premium items are also innovative, with the goal of setting and leading fashion trends. This brand's global network is handled through storefronts, e-commerce sites, and prominent department and specialty stores around the world.
      
 <img src="Images/MK.jpg?raw=true"
      width="200" 
@@ -16,3 +16,5 @@ Michael Kors started as an American luxury sportswear brand 40 years ago. Today,
 <img src="Images/Versace.jpg?raw=true"
      width="200" 
      height="200"/>
+     
+Versace brand has been acknowledged as one of the world's leading international fashion houses. It is synonymous with Italian glitz and glitter. It was founded in 1978 in Milan and is noted for its iconic and identifiable aesthetic as well as unrivaled craftsmanship. Donatella Versace, the brand's artistic director for the last two decades, leads the design team. The house maintains a global distribution network that includes boutiques in the world's most beautiful cities, e-commerce sites, and the most valuable department and specialty stores on the planet.
